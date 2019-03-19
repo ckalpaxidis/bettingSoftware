@@ -1,0 +1,2 @@
+# bettingSoftware
+algorithmic betting
